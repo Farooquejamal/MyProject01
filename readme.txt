@@ -1,4 +1,4 @@
 Welcome to My project
 
-Author :Farooque jamal
+Author :Farooque anas jamal farhan
 twitterhandle :@jamalfarooque
